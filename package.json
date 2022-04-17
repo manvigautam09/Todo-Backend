@@ -1,0 +1,24 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "A simple server for todo apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manvigautam09/Todo-Backend.git"
+  },
+  "author": "Manvi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manvigautam09/Todo-Backend/issues"
+  },
+  "homepage": "https://github.com/manvigautam09/Todo-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "typeorm": "^0.3.6",
+    "typescript": "^4.6.3"
+  }
+}
